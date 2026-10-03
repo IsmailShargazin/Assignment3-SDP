@@ -3,9 +3,8 @@
 **Student:** Ismail Shargazin  
 **Group:** SE-2529  
 **Topic:** A - Drawing  
-**Repository URL:** ADD_YOUR_GITHUB_REPOSITORY_URL  
-**Base commit:** `3e83649893ab1d5f86b477116a9f4d6354c5b9c9`  
-**Submitted source commit:** `7ee44ec63b30724cb481bd05ed4be2dc7404c64b`
+**Repository URL:** https://github.com/IsmailShargazin/Assignment3-SDP 
+
 
 The two independent dimensions are shape (Circle or Square) and rendering method (Vector, Raster, or ASCII). A shape stores a `Renderer` interface reference and delegates its low-level rendering to that object. Changing the renderer changes the description while preserving the same shape object and its domain data.
 
